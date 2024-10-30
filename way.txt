@@ -19,6 +19,7 @@ git commit -m "modified file_name.ext file"
 git push origin folder_name
 // to make a folder back place
 git cd ..
+
 }
 action gittovsc()
 {
