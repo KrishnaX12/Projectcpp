@@ -1,0 +1,19 @@
+set up cmdgit()
+{
+git config --global user.name "Coder-X-12"
+git config --global user.yahoo "bkr.2007@yahoo.com"
+git config --global user.email "bkr.2007@yahoo.com"
+}
+action gitvsc()
+{
+git clone "link of the folder in git hub"
+// create a file in git hub
+git add file_name.ext
+git status folder_name
+git commit -m "file_name.ext added file"
+git push origin folder_name
+//updating changes in file
+git add file_name.ext
+git commit -m "modified file_name.ext file"
+git push origin folder_name
+}
