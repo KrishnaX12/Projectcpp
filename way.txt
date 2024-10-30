@@ -17,3 +17,8 @@ git add file_name.ext
 git commit -m "modified file_name.ext file"
 git push origin folder_name
 }
+action gittovsc()
+{
+//changes that happened in git will be updated to vs code by this command :
+git pull
+}
