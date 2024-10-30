@@ -19,7 +19,7 @@ git commit -m "modified file_name.ext file"
 git push origin folder_name
 // to make a folder back place
 git cd ..
-//after creating a folder inside git folder u have to make that link with github by :
+//after creating a folder inside git folder u have to make that link with github by 
 git init
 }
 action gittovsc()
