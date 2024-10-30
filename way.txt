@@ -1,3 +1,4 @@
+//how to use git hub
 set up cmdgit()
 {
 git config --global user.name "Coder-X-12"
