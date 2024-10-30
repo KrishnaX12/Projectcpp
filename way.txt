@@ -19,6 +19,6 @@ git push origin folder_name
 }
 action gittovsc()
 {
-//changes that happened in git will be updated to vs code by this command :
+//changes that happened in git will be updated to vs code by this command 
 git pull
 }
