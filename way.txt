@@ -7,7 +7,7 @@ git config --global user.email "bkr.2007@yahoo.com"
 action gitvsc()
 {
 git clone "link of the folder in git hub"
-// create a file in git hub
+// adding to stagging area
 git add file_name.ext
 git status folder_name
 git commit -m "file_name.ext added file"
