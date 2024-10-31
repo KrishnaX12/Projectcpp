@@ -29,7 +29,7 @@ action gittovsc()
 //changes that happened in github will be updated to vs code by this command 
 git pull
 }
-//creating a new repositary in a git folder ...
+//creating a new repositary in a git folder ...(branch stuffs...)
 {
 git init
 git remote add origin https://github.com/Coder-X-12/Projecthtml.git
@@ -38,5 +38,7 @@ git push origin main
 // it will list done the branches in the repositary :
 git branch -a
 // command switch between branches :
-git checkout gitbranch1
+git checkout branch_name
+// mergin a branch from a branch :
+git merge branch_name
 }
