@@ -20,6 +20,7 @@ git push origin folder_name
 // to make a folder back place
 git cd ..
 //after creating a folder inside git folder u have to make that link with github by :
+git commit -m "created file_name"
 git init
 }
 }
@@ -27,4 +28,11 @@ action gittovsc()
 {
 //changes that happened in github will be updated to vs code by this command 
 git pull
+}
+//creating a new repositary in a git folder ...
+{
+git init
+git remote add origin https://github.com/Coder-X-12/Projecthtml.git
+git branch -M main
+git push origin main
 }
