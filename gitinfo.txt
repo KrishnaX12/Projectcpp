@@ -42,3 +42,4 @@ git checkout branch_name
 // mergin a branch from a branch :
 git merge branch_name
 }
+// Bossy Pull request ..
