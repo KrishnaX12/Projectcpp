@@ -2,7 +2,6 @@
 set up cmdgit()
 {
 git config --global user.name "Coder-X-12"
-git config --global user.yahoo "bkr.2007@yahoo.com"
 git config --global user.email "bkr.2007@yahoo.com"
 }
 action vsctogit()
